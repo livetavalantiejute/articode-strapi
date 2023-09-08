@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_list_image_lists",
+  "info": {
+    "displayName": "image_list",
+    "icon": "cast"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}

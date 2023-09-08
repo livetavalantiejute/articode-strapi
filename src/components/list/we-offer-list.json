@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_list_we_offer_lists",
+  "info": {
+    "displayName": "We offer list",
+    "icon": "chartBubble",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "offering": {
+      "type": "component",
+      "repeatable": true,
+      "component": "list.we-offer"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_list_we_offers",
+  "info": {
+    "displayName": "We offer",
+    "icon": "emotionHappy",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "list_item": {
+      "type": "string"
+    },
+    "list_description": {
+      "type": "richtext"
+    },
+    "list_title": {
+      "type": "string"
+    }
+  }
+}
